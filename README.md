@@ -1,2 +1,2 @@
 # Practice-repository-1
-practicing basic operations using GitHub
+making changes, commiting changes, pull request
